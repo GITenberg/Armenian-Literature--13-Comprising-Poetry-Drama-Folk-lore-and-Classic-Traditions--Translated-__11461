@@ -1,0 +1,38 @@
+_repo: Armenian-Literature--13-Comprising-Poetry-Drama-Folk-lore-and-Classic-Traditions--Translated-__11461
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sundukyan, Gabriel
+    alias: Sundukiani, Gabriel
+    birthdate: 1825
+    deathdate: 1912
+    gutenberg_agent_id: '40305'
+    url: http://www.gutenberg.org/2009/agents/40305
+  translators:
+  - agent_name: Collins, F. B.
+    gutenberg_agent_id: '40306'
+    url: http://www.gutenberg.org/2009/agents/40306
+  - agent_name: Arnot, Robert
+    birthdate: 1860
+    gutenberg_agent_id: '35093'
+    url: http://www.gutenberg.org/2009/agents/35093
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Armenian literature -- Translations into English'
+- !lcc 'PJ'
+- !lcsh 'Armenian literature'
+- GITenberg
+tableOfContents: "Proverbs and Folk-Lore\r\nThe Vacant Yard\r\nA Plaint\r\nSpring\
+  \ in Exile\r\nFly, Lays of Mine\r\nThe Woe of Araxes\r\nThe Armenian Maiden\r\n\
+  One of a Thousand\r\nLonging\r\nDavid of Sassun\r\nThe Ruined Family"
+title: "Armenian Literature\r\nComprising Poetry, Drama, Folk-lore and Classic Traditions;\
+  \ Translated into English for the First Time"
+url: http://www.gutenberg.org/ebooks/11461
